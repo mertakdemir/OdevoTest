@@ -6,7 +6,7 @@
 6-)You are ready to use the Cypress now. To open the Cypress, write: npx cypress open 
 7-)Choose end-to-end testing and follow the steps.
 8-)I have not added any plug-in or dependencies. So you dont need to either
-9-)It will be enough to open Cypress and run the test by just clicking on the name of the test
+9-)It will be enough to open Cypress and run the test -> "..\e2e\Odevo_Tests\Shopping_Process.cy.js"
 
 --Structure--
 1-)I created a framework according to "Page Object Model"
