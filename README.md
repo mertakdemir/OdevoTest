@@ -1,7 +1,7 @@
 # Cypress Test Automation Guide
 
 1. *Prerequisites*
-   - First of all, you must have Node.js installed on your computer to be able to test on Cypress.
+   - First of all, you must have Node.js (version 12 or later) installed on your computer to be able to test on Cypress.
 
 2. *Installation Steps*
    - I automated this test in Cypress. To install it:
