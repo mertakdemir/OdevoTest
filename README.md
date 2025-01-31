@@ -12,7 +12,7 @@
        npm init -y
        
      5. Once you have the package.json file, write:
-       npm install cypress@14.0.0
+       npm install cypress@14.0.0 or 14.0.1
        
      6. You are now ready to use Cypress. To open Cypress, write:
        npx cypress open
