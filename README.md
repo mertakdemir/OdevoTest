@@ -20,6 +20,7 @@
      7. Choose end-to-end testing and follow the steps.
 
 3. *Setup*
+
    -To get my Cypress project you can either have a zip.file or copy "https://github.com/mertakdemir/OdevoTest.git" and open command prompt on your computer then write: git clone https://github.com/mertakdemir/OdevoTest.git
    
    - No additional plugins or dependencies are needed. Simply open Cypress and run the test:
